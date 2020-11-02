@@ -16,3 +16,5 @@ api written in any language and frontends written in JS, so you have to run npm 
   start powershell -noexit -Command "cd 'C:\your-project-lists\awesome-sales-app'"; powershell -noexit -Command "npm start"
 ```
 
+
+## Disclaimer: don’t say python can do that. The scripts are only for goribs
